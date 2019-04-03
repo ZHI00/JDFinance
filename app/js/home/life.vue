@@ -8,7 +8,7 @@
           </li>
           <li>
               <img src="//img12.360buyimg.com/jrpmobile/jfs/t4747/185/1901740991/5892/1383fb93/58f57851N17ee6993.jpg?width=132&height=132" alt="">
-              <p>小白信用</p>
+              <p>小白信用</p> 
               <p>全新升级</p>
           </li>
           <li>
