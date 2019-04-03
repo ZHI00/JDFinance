@@ -9,7 +9,7 @@
           <li>
               <img src="//img12.360buyimg.com/jrpmobile/jfs/t4747/185/1901740991/5892/1383fb93/58f57851N17ee6993.jpg?width=132&height=132" alt="">
               <p>小白信用</p> 
-              <p>全新升级</p>
+              <p>全新升级</p> 
           </li>
           <li>
               <img src="//img12.360buyimg.com/jrpmobile/jfs/t3241/234/8044685271/3713/7b29f77f/58be89c8Nb9d41295.png?width=135&height=135" alt="">
