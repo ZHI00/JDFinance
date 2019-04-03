@@ -93,7 +93,6 @@
     "object-keys": "^1.0.12",
     "uglifyjs-webpack-plugin": "^2.1.1",
     "vue-eslint-parser": "^2.0.1-beta.2",
-    "vue-loader": "^13.7.3",
     "webpack-command": "^0.4.2"
   }
 }
